@@ -1,7 +1,6 @@
 # Workshop on Emerging Themes in Computational Statistics
-__Dates: 19th (Wed) - 20th (Thu) February, 2020__
+__Dates: 19th (Wed) - 20th (Thu) February, 2020__  
 __Location: The Institute of Statistical Mathematics, Tachikawa, Tokyo, Japan__
-__Registration: This workshop is open to all &mdash; no registration required.__
 
 ### Outline
 
