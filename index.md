@@ -4,6 +4,7 @@ __Location: The Institute of Statistical Mathematics, Tachikawa, Tokyo, Japan__\
 __Registration: This workshop is open to all &mdash; no registration required.__
 
 ### Outline
+
 Computational statistics is a rapidly developing research field due to the increasing
 high demand in analysing large and complex data in many areas of science. Motivated
 by the recent innovations in efficient computational techniques for statistical
@@ -12,6 +13,7 @@ to facilitate discussions amongst researchers working on different aspects of st
 computations, and promotes new ideas in both methodological and applied directions.
 
 ### Timetable
+
 |                     |     Day 1 (19 Feb)    |  Day 2 (20 Feb)  |
 |:-------------------:|:---------------------:|:----------------:|
 | 10:00 &ndash; 11:00 |      Chris Oates      |   Scott Sisson   |
@@ -25,6 +27,7 @@ computations, and promotes new ideas in both methodological and applied directio
 |  17:00 &ndash; late |    Workshop dinner    |                  |
 
 ### Speakers
+
 * Chris Oates (Newcastle University, UK)
 * Francois-Xavier Briol (University College London, UK)
 * Heishiro Kanagawa (University College London, UK)
@@ -37,6 +40,7 @@ computations, and promotes new ideas in both methodological and applied directio
 * Daisuke Murakami (Institute of Statistical Mathematics, Japan)
 
 ### Organisation
+
 * Wilson Chen, wilson(at-mark)ism.ac.jp
 * Yi Jiang, jiangyi(at-mark)ism.ac.jp
 * Tomoko Matsui, tmatsui(at-mark)ism.ac.jp
