@@ -1,3 +1,8 @@
+title: ETCS Workshop
+logo: /assets/img/kawaii.jpg
+description: (Photo: taken by Yi Jiang at Sensoji, Tokyo.)
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
