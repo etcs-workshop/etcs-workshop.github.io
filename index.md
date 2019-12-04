@@ -36,7 +36,7 @@ computations, and promotes new ideas in both methodological and applied directio
 * Scott Sisson (University of New South Wales, Australia)
 * Richard Gerlach (University of Sydney, Australia)
 * Pavel Shevchenko (Macquarie University, Australia)
-* Takeru Matsuda (University of Tokyo)
+* Takeru Matsuda (University of Tokyo, Japan)
 * Daisuke Murakami (Institute of Statistical Mathematics, Japan)
 
 ### Dinner
