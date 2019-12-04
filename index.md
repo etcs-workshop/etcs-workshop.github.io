@@ -22,7 +22,7 @@ computations, and promotes new ideas in both methodological and applied directio
 | 12:30 &ndash; 14:00 |         _Lunch_         |       _Lunch_      |
 | 14:00 &ndash; 15:00 |    Heishiro Kanagawa    |  Pavel Shevchenko  |
 | 15:00 &ndash; 15:30 |     _Afternoon tea_     |   _Afternoon tea_  |
-| 15:30 &ndash; 16:15 |     Shin-Itiro Goto     |         TBA        |
+| 15:30 &ndash; 16:15 |     Shin-Itiro Goto     |   Takeru Matsuda   |
 | 16:15 &ndash; 17:00 |        Wenkai Xu        |  Daisuke Murakami  |
 |  17:00 &ndash; late |    _Workshop dinner_    |                    |
 
@@ -34,9 +34,9 @@ computations, and promotes new ideas in both methodological and applied directio
 * Shin-Itiro Goto (Institute of Statistical Mathematics, Japan)
 * Wenkai Xu (University College London, UK)
 * Scott Sisson (University of New South Wales, Australia)
-* Richard Gerlach (The University of Sydney, Australia)
+* Richard Gerlach (University of Sydney, Australia)
 * Pavel Shevchenko (Macquarie University, Australia)
-* TBA ()
+* Takeru Matsuda (University of Tokyo)
 * Daisuke Murakami (Institute of Statistical Mathematics, Japan)
 
 ### Dinner
