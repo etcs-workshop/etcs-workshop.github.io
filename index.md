@@ -13,17 +13,17 @@ computations, and promotes new ideas in both methodological and applied directio
 
 ### Timetable (Tentative)
 
-|                     |     Day 1 (19 Feb)    |  Day 2 (20 Feb)  |
-|:-------------------:|:---------------------:|:----------------:|
-| 10:00 &ndash; 11:00 |      Chris Oates      |   Scott Sisson   |
-| 11:00 &ndash; 11:30 |      Coffee break     |   Coffee break   |
-| 11:30 &ndash; 12:30 | Francois-Xavier Briol |  Richard Gerlach |
-| 12:30 &ndash; 14:00 |         Lunch         |       Lunch      |
-| 14:00 &ndash; 15:00 |   Heishiro Kanagawa   | Pavel Shevchenko |
-| 15:00 &ndash; 15:30 |     Afternoon tea     |   Afternoon tea  |
-| 15:30 &ndash; 16:15 |    Shin-Itiro Goto    |        TBA       |
-| 16:15 &ndash; 17:00 |       Wenkai Xu       | Daisuke Murakami |
-|  17:00 &ndash; late |    Workshop dinner    |                  |
+|                     |      Day 1 (19 Feb)     |   Day 2 (20 Feb)   |
+|:-------------------:|:-----------------------:|:------------------:|
+| 10:00 &ndash; 11:00 |       Chris Oates       |    Scott Sisson    |
+| 11:00 &ndash; 11:30 |      _Coffee break_     |   _Coffee break_   |
+| 11:30 &ndash; 12:30 |  Francois-Xavier Briol  |   Richard Gerlach  |
+| 12:30 &ndash; 14:00 |         _Lunch_         |       _Lunch_      |
+| 14:00 &ndash; 15:00 |    Heishiro Kanagawa    |  Pavel Shevchenko  |
+| 15:00 &ndash; 15:30 |     _Afternoon tea_     |   _Afternoon tea_  |
+| 15:30 &ndash; 16:15 |     Shin-Itiro Goto     |         TBA        |
+| 16:15 &ndash; 17:00 |        Wenkai Xu        |  Daisuke Murakami  |
+|  17:00 &ndash; late |    _Workshop dinner_    |                    |
 
 ### Speakers
 
@@ -38,14 +38,14 @@ computations, and promotes new ideas in both methodological and applied directio
 * TBA ()
 * Daisuke Murakami (Institute of Statistical Mathematics, Japan)
 
-### Organisation
-
-* Wilson Chen, wilson(at-symbol)ism.ac.jp
-* Yi Jiang, jiangyi(at-symbol)ism.ac.jp
-* Tomoko Matsui, tmatsui(at-symbol)ism.ac.jp
-
 ### Accommodation
 
 * [Palace Hotel Tachikawa](https://www.palace-t.co.jp/english/)
 * [Tachikawa Grand Hotel](https://www.guestreservations.com/tachikawa-grand-hotel/booking)
 * [Hotel Nikko Tachikawa](https://www.okura-nikko.com/japan/tokyo/hotel-nikko-tachikawa-tokyo/)
+
+### Organisation
+
+* Wilson Chen, wilson(at-symbol)ism.ac.jp
+* Yi Jiang, jiangyi(at-symbol)ism.ac.jp
+* Tomoko Matsui, tmatsui(at-symbol)ism.ac.jp
