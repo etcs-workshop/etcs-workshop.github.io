@@ -43,3 +43,9 @@ computations, and promotes new ideas in both methodological and applied directio
 * Wilson Chen, wilson(at-symbol)ism.ac.jp
 * Yi Jiang, jiangyi(at-symbol)ism.ac.jp
 * Tomoko Matsui, tmatsui(at-symbol)ism.ac.jp
+
+### Accommodation
+
+* [Palace Hotel Tachikawa](https://www.palace-t.co.jp/english/)
+* [Tachikawa Grand Hotel](https://www.guestreservations.com/tachikawa-grand-hotel/booking)
+* [Hotel Nikko Tachikawa](https://www.okura-nikko.com/japan/tokyo/hotel-nikko-tachikawa-tokyo/)
