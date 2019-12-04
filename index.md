@@ -1,6 +1,7 @@
 # Workshop on Emerging Themes in Computational Statistics
 __Dates: 19th (Wed) &mdash; 20th (Thu) February, 2020__  
-__Location: The Institute of Statistical Mathematics, Tokyo, Japan__
+__Location: The Institute of Statistical Mathematics, Tokyo, Japan__  
+__Registration: No registration required (except for dinner)__
 
 ### Outline
 
@@ -37,6 +38,10 @@ computations, and promotes new ideas in both methodological and applied directio
 * Pavel Shevchenko (Macquarie University, Australia)
 * TBA ()
 * Daisuke Murakami (Institute of Statistical Mathematics, Japan)
+
+### Dinner
+
+TBA
 
 ### Accommodation
 
