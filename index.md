@@ -11,7 +11,7 @@ inference and a variety of computationally challenging applications, this worksh
 to facilitate discussions amongst researchers working on different aspects of statistical
 computations, and promotes new ideas in both methodological and applied directions.
 
-### Timetable
+### Timetable (Tentative)
 
 |                     |     Day 1 (19 Feb)    |  Day 2 (20 Feb)  |
 |:-------------------:|:---------------------:|:----------------:|
@@ -40,6 +40,6 @@ computations, and promotes new ideas in both methodological and applied directio
 
 ### Organisation
 
-* Wilson Chen, wilson(at-mark)ism.ac.jp
-* Yi Jiang, jiangyi(at-mark)ism.ac.jp
-* Tomoko Matsui, tmatsui(at-mark)ism.ac.jp
+* Wilson Chen, wilson(at-symbol)ism.ac.jp
+* Yi Jiang, jiangyi(at-symbol)ism.ac.jp
+* Tomoko Matsui, tmatsui(at-symbol)ism.ac.jp
