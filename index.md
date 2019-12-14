@@ -30,34 +30,43 @@ computations, and promotes new ideas in both methodological and applied directio
 
 * __Chris Oates (Newcastle University, UK)__  
   __Title:__ Gaussian Process Approximation of Deterministic Functions  
-  __Abstract:__ Despite the ubiquity of Gaussian process regression in the applied context, almost no theoretical results are available that account for the fact that parameters of the covariance kernel need to be jointly estimated from the dataset. The lack of theoretical understanding draws into question whether Gaussian process regression should be used at all in important, e.g. safety-critical, applications. To gain some insight, we studied the scenario where the scale parameter of the kernel is estimated using maximum likelihood. Our main result is a bound on the rate at which the Gaussian process can become overconfident as the size of the dataset is increased. The analysis is based on a combination of techniques from nonparametric regression and scattered data interpolation, and is joint work with Toni Karvonen, George Wynne, Filip Tronarp and Simo Särkkä.
+  __Abstract:__ Despite the ubiquity of Gaussian process regression in the applied context, almost no theoretical results are available that account for the fact that parameters of the covariance kernel need to be jointly estimated from the dataset. The lack of theoretical understanding draws into question whether Gaussian process regression should be used at all in important, e.g. safety-critical, applications. To gain some insight, we studied the scenario where the scale parameter of the kernel is estimated using maximum likelihood. Our main result is a bound on the rate at which the Gaussian process can become overconfident as the size of the dataset is increased. The analysis is based on a combination of techniques from nonparametric regression and scattered data interpolation, and is joint work with Toni Karvonen, George Wynne, Filip Tronarp and Simo Särkkä.  
+
 * __Francois-Xavier Briol (University College London, UK)__  
   __Title:__ Statistical Inference for Generative Models with Maximum Mean Discrepancy  
-  __Abstract:__ While likelihood-based inference and its variants provide a statistically efficient and widely applicable approach to parametric inference, their application to models involving intractable likelihoods poses challenges. In this work, we study a class of minimum distance estimators for intractable generative models, that is, statistical models for which the likelihood is intractable, but simulation is cheap. The distance considered, maximum mean discrepancy (MMD) is defined through the embedding of probability measures into a reproducing kernel Hilbert space (RKHS). We study the theoretical properties of these estimators, showing that they are consistent and asymptotically normal. A main advantage of these estimators is the flexibility offered by the choice of kernel, which can be used to trade-off statistical efficiency and robustness. Studying the geometry induced by MMD on the parameter space, we introduce a novel natural gradient descent-like algorithm for efficient implementation of these estimators. We illustrate the relevance of our theoretical results on several classes of models including a discrete-time latent Markov process and a multivariate stochastic differential equation model.
+  __Abstract:__ While likelihood-based inference and its variants provide a statistically efficient and widely applicable approach to parametric inference, their application to models involving intractable likelihoods poses challenges. In this work, we study a class of minimum distance estimators for intractable generative models, that is, statistical models for which the likelihood is intractable, but simulation is cheap. The distance considered, maximum mean discrepancy (MMD) is defined through the embedding of probability measures into a reproducing kernel Hilbert space (RKHS). We study the theoretical properties of these estimators, showing that they are consistent and asymptotically normal. A main advantage of these estimators is the flexibility offered by the choice of kernel, which can be used to trade-off statistical efficiency and robustness. Studying the geometry induced by MMD on the parameter space, we introduce a novel natural gradient descent-like algorithm for efficient implementation of these estimators. We illustrate the relevance of our theoretical results on several classes of models including a discrete-time latent Markov process and a multivariate stochastic differential equation model.  
+
 * __Heishiro Kanagawa (University College London, UK)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
+
 * __Shin-Itiro Goto (Institute of Statistical Mathematics, Japan)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
+
 * __Wenkai Xu (University College London, UK)__  
   __Title:__ A Stein Goodness-of-fit Test for Directional Distributions  
-  __Abstract:__ In many fields, data appears in the form of direction (unit vector) and usual statistical procedures are not applicable to such directional data. In this study, we propose non-parametric goodness-of-fit testing procedures for general directional distributions based on kernel Stein discrepancy. Our method is based on Stein's operator on spheres, which is derived by using Stokes' theorem. Notably, the proposed method is applicable to distributions with an intractable normalization constant, which commonly appear in directional statistics. Experimental results demonstrate that the proposed methods control type-I error well and have larger power than existing tests, including the test based on the maximum mean discrepancy.
+  __Abstract:__ In many fields, data appears in the form of direction (unit vector) and usual statistical procedures are not applicable to such directional data. In this study, we propose non-parametric goodness-of-fit testing procedures for general directional distributions based on kernel Stein discrepancy. Our method is based on Stein's operator on spheres, which is derived by using Stokes' theorem. Notably, the proposed method is applicable to distributions with an intractable normalization constant, which commonly appear in directional statistics. Experimental results demonstrate that the proposed methods control type-I error well and have larger power than existing tests, including the test based on the maximum mean discrepancy.  
+
 * __Scott Sisson (University of New South Wales, Australia)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
+
 * __Richard Gerlach (University of Sydney, Australia)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
+
 * __Pavel Shevchenko (Macquarie University, Australia)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
+
 * __Takeru Matsuda (University of Tokyo, Japan)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
+
 * __Daisuke Murakami (Institute of Statistical Mathematics, Japan)__  
   __Title:__  
-  __Abstract:__ 
+  __Abstract:__  
 
 ### Dinner
 
