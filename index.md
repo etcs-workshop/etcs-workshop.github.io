@@ -65,8 +65,8 @@ computations, and promotes new ideas in both methodological and applied directio
   __Abstract:__  
 
 * __Daisuke Murakami (Institute of Statistical Mathematics, Japan)__  
-  __Title:__  
-  __Abstract:__  
+  __Title:__  A Scalable Ppatial Additive Modeling for Large Dataset
+  __Abstract:__  Regression problem for large samples is now commonplace, and fast and memory-efficient egression models accommodating group effects, non-linear effects, and other effects are increasingly important. This study develops a spatial additive regression approach for large samples. Therein, we developed an algorithm estimating spatial and non-spatial effects whose computational complexity and memory consumption are independent of the sample size after pre-conditioning. The performance of the developed approach is examined through Monte Carlo simulation experiments and empirical application.  
 
 ### Dinner
 
