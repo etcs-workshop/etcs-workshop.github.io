@@ -68,6 +68,16 @@ computations, and promotes new ideas in both methodological and applied directio
   __Title:__  A Scalable Ppatial Additive Modeling for Large Dataset  
   __Abstract:__  Regression problem for large samples is now commonplace, and fast and memory-efficient egression models accommodating group effects, non-linear effects, and other effects are increasingly important. This study develops a spatial additive regression approach for large samples. Therein, we developed an algorithm estimating spatial and non-spatial effects whose computational complexity and memory consumption are independent of the sample size after pre-conditioning. The performance of the developed approach is examined through Monte Carlo simulation experiments and empirical application.  
 
+### Lunch
+
+Popular lunch spots around ISM:
+* Tachikawa City Hall (立川市役所)
+* Bento boxes at Polar Science Museum (南極・北極科学館)
+* Zuikyo Chinese Restaurant (中国料理・瑞京)
+* Lalaport Tachikawa (ららぽーと立川立飛店)
+* Tokyo District Court Tachikawa Branch (東京地方裁判所)
+* Local Autonomy College (自治大学校)
+
 ### Dinner
 
 TBA
