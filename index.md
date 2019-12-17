@@ -16,15 +16,15 @@ computations, and promotes new ideas in both methodological and applied directio
 
 |                     |      Day 1 (19 Feb)     |   Day 2 (20 Feb)   |
 |:-------------------:|:-----------------------:|:------------------:|
-| 10:00 &ndash; 11:00 |       Chris Oates       |    Scott Sisson    |
-| 11:00 &ndash; 11:30 |      _Coffee break_     |   _Coffee break_   |
-| 11:30 &ndash; 12:30 |  Francois-Xavier Briol  |   Richard Gerlach  |
-| 12:30 &ndash; 14:00 |         _Lunch_         |       _Lunch_      |
-| 14:00 &ndash; 15:00 |    Heishiro Kanagawa    |  Pavel Shevchenko  |
-| 15:00 &ndash; 15:30 |     _Afternoon tea_     |   _Afternoon tea_  |
-| 15:30 &ndash; 16:15 |     Shin-Itiro Goto     |   Takeru Matsuda   |
-| 16:15 &ndash; 17:00 |        Wenkai Xu        |  Daisuke Murakami  |
-|  17:00 &ndash; late |    _Workshop dinner_    |                    |
+|  9:30 &ndash; 10:30 |       Chris Oates       |    Scott Sisson    |
+| 10:30 &ndash; 11:00 |      _Coffee break_     |   _Coffee break_   |
+| 11:00 &ndash; 12:00 |  Francois-Xavier Briol  |   Richard Gerlach  |
+| 12:00 &ndash; 13:30 |         _Lunch_         |       _Lunch_      |
+| 13:30 &ndash; 14:30 |    Heishiro Kanagawa    |  Pavel Shevchenko  |
+| 14:30 &ndash; 15:00 |     _Afternoon tea_     |   _Afternoon tea_  |
+| 15:00 &ndash; 16:00 |     Shin-Itiro Goto     |   Takeru Matsuda   |
+| 16:00 &ndash; 17:00 |        Wenkai Xu        |  Daisuke Murakami  |
+| 17:00 &ndash; late  |    _Workshop dinner_    |                    |
 
 ### Speakers
 
