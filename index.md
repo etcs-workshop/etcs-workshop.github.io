@@ -24,7 +24,7 @@ computations, and promotes new ideas in both methodological and applied directio
 | 14:30 &ndash; 15:00 |     _Afternoon tea_     |   _Afternoon tea_  |
 | 15:00 &ndash; 16:00 |     Shin-Itiro Goto     |   Takeru Matsuda   |
 | 16:00 &ndash; 17:00 |        Wenkai Xu        |  Daisuke Murakami  |
-| 17:00 &ndash; late  |    _Workshop dinner_    |                    |
+| 19:00 &ndash; late  |    _Workshop dinner_    |                    |
 
 ### Speakers
 
