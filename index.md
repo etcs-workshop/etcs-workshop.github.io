@@ -61,8 +61,8 @@ computations, and promotes new ideas in both methodological and applied directio
   __Abstract:__  
 
 * __Takeru Matsuda (University of Tokyo, Japan)__  
-  __Title:__  
-  __Abstract:__  
+  __Title:__ Information Criteria for Non-Normalized Models  
+  __Abstract:__ Many statistical models are given in the form of non-normalized densities with an intractable normalization constant. Since maximum likelihood estimation is computation- ally intensive for these models, several estimation methods have been developed which do not require explicit computation of the normalization constant, such as noise contrastive estimation (NCE) and score matching. However, model selection methods for general non-normalized models have not been proposed so far. In this study, we develop information criteria for non-normalized models estimated by NCE or score matching. They are derived as approximately unbiased estimators of discrepancy measures for non-normalized models. Experimental results demonstrate that the proposed criteria enable selection of the appro- priate non-normalized model in a data-driven manner. Extension to a finite mixture of non-normalized models is also discussed.  
 
 * __Daisuke Murakami (Institute of Statistical Mathematics, Japan)__  
   __Title:__  A Scalable Spatial Additive Modeling for Large Dataset  
