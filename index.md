@@ -70,7 +70,7 @@ computations, and promotes new ideas in both methodological and applied directio
 
 ### Lunch
 
-Popular lunch adventures around ISM:
+Popular lunch spots around ISM:
 * Tachikawa City Hall (立川市役所)
 * Bento boxes at Polar Science Museum (南極・北極科学館)
 * Zuikyo Chinese Restaurant (中国料理・瑞京)
