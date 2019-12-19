@@ -38,7 +38,7 @@ computations, and promotes new ideas in both methodological and applied directio
 
 * __Heishiro Kanagawa (University College London, UK)__  
   __Title:__  
-  __Abstract:__  
+  __Abstract:__ I will present a nonparametric, kernel-based test to assess the relative goodness of fit of latent variable models with intractable unnormalized densities. The test generalises the kernel Stein discrepancy (KSD) tests of (Liu et al., 2016, Chwialkowski et al., 2016, Yang et al., 2018, Jitkrittum et al., 2018) which required exact access to unnormalized densities. It relies on the simple idea of using an approximate observed-variable marginal in place of the exact, intractable one. As our main theoretical contribution, we prove that the new test, with a properly corrected threshold, has a well-controlled type-I error. In the case of models with low-dimensional latent structure and high-dimensional observations, our test significantly outperforms the relative maximum mean discrepancy test (Bounliphone et al., 2015), which cannot exploit the latent structure.  
 
 * __Shin-Itiro Goto (Institute of Statistical Mathematics, Japan)__  
   __Title:__  
@@ -49,8 +49,8 @@ computations, and promotes new ideas in both methodological and applied directio
   __Abstract:__ In many fields, data appears in the form of direction (unit vector) and usual statistical procedures are not applicable to such directional data. In this study, we propose non-parametric goodness-of-fit testing procedures for general directional distributions based on kernel Stein discrepancy. Our method is based on Stein's operator on spheres, which is derived by using Stokes' theorem. Notably, the proposed method is applicable to distributions with an intractable normalization constant, which commonly appear in directional statistics. Experimental results demonstrate that the proposed methods control type-I error well and have larger power than existing tests, including the test based on the maximum mean discrepancy.  
 
 * __Scott Sisson (University of New South Wales, Australia)__  
-  __Title:__  
-  __Abstract:__  
+  __Title:__ New Models for Distributional-Based Data  
+  __Abstract:__  There has been much recent interest in developing statistical methods that can handle large-scale and complex data. One such approach is based on the idea of reducing the data to a smaller number of summary distributions -- such as random histograms, or random intervals -- that describe where the data generally reside, at the loss of some information about where each data point is precisely located. These distributions are then used as summary statistics in a standard analysis, with the benefit of large computational savings. This talk will outline some recent results and applications in this area.  
 
 * __Richard Gerlach (University of Sydney, Australia)__  
   __Title:__  
