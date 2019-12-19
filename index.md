@@ -50,7 +50,7 @@ computations, and promotes new ideas in both methodological and applied directio
 
 * __Scott Sisson (University of New South Wales, Australia)__  
   __Title:__ New Models for Distributional-Based Data  
-  __Abstract:__  There has been much recent interest in developing statistical methods that can handle large-scale and complex data. One such approach is based on the idea of reducing the data to a smaller number of summary distributions &mdash such as random histograms, or random intervals &mdash that describe where the data generally reside, at the loss of some information about where each data point is precisely located. These distributions are then used as summary statistics in a standard analysis, with the benefit of large computational savings. This talk will outline some recent results and applications in this area.  
+  __Abstract:__  There has been much recent interest in developing statistical methods that can handle large-scale and complex data. One such approach is based on the idea of reducing the data to a smaller number of summary distributions &mdash; such as random histograms, or random intervals &mdash; that describe where the data generally reside, at the loss of some information about where each data point is precisely located. These distributions are then used as summary statistics in a standard analysis, with the benefit of large computational savings. This talk will outline some recent results and applications in this area.  
 
 * __Richard Gerlach (University of Sydney, Australia)__  
   __Title:__  
