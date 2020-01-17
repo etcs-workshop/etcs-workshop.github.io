@@ -12,7 +12,7 @@ inference and a variety of computationally challenging applications, this worksh
 to facilitate discussions amongst researchers working on different aspects of statistical
 computations, and promotes new ideas in both methodological and applied directions.
 
-### Timetable (Tentative)
+### Timetable
 
 |                     |      Day 1 (19 Feb)     |   Day 2 (20 Feb)   |
 |:-------------------:|:-----------------------:|:------------------:|
@@ -41,8 +41,8 @@ computations, and promotes new ideas in both methodological and applied directio
   __Abstract:__ I will present a nonparametric, kernel-based test to assess the relative goodness of fit of latent variable models with intractable unnormalized densities. The test generalises the kernel Stein discrepancy (KSD) tests of (Liu et al., 2016, Chwialkowski et al., 2016, Yang et al., 2018, Jitkrittum et al., 2018) which required exact access to unnormalized densities. It relies on the simple idea of using an approximate observed-variable marginal in place of the exact, intractable one. As our main theoretical contribution, we prove that the new test, with a properly corrected threshold, has a well-controlled type-I error. In the case of models with low-dimensional latent structure and high-dimensional observations, our test significantly outperforms the relative maximum mean discrepancy test (Bounliphone et al., 2015), which cannot exploit the latent structure.  
 
 * __Shin-Itiro Goto (Institute of Statistical Mathematics, Japan)__  
-  __Title:__  
-  __Abstract:__  
+  __Title:__ Information and Contact Geometries for Expectation Variables Exactly Derived From a Class of Master Equations  
+  __Abstract:__  Information geometry is a discipline that studies differential geometric aspects of statistics, and has contributed to progress in mathematics and engineering applications including Monte-Carlo simulation techniques. Monte-Carlo techniques are formulated based on the theory of Markov chains, where Markov chains are modeled as master equations that have been studied in statistical mechanics and thermodynamics. Contact geometry is known as an odd-dimensional counterpart of symplectic geometry, and has been applied to build differential geometric statistical mechanics and thermodynamics. Although such applications exist in the literature, many pure mathematical findings in contact geometry have not yet been applied. Since some mathematical ideas, including Legendre transform and conjugate variables, are commonly used in thermodynamics, contact geometry, and information geometry, an amalgamation of these geometries is expected to be fruitful in the studies of thermodynamics and Monte-Carlo techniques. Thus, how theorems found in these differential geometries can be used should be explored in the application areas above. In this talk we propose a class of continuous-time master equations, and show how information-contact geometric tools can be used. Here this class is simple enough to exactly derive a dynamical system for expectation variables from the master equations, and allows to discuss a relaxation process in a differential geometric manner.  
 
 * __Wenkai Xu (University College London, UK)__  
   __Title:__ A Stein Goodness-of-fit Test for Directional Distributions  
