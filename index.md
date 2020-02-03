@@ -1,6 +1,6 @@
 # Workshop on Emerging Themes in Computational Statistics
 __Dates: 19th (Wed) &mdash; 20th (Thu) February, 2020__  
-__Location: Room D222, [The Institute of Statistical Mathematics, Tokyo, Japan](https://goo.gl/maps/58QJ35GUTkLtmDEQ9)__  
+__Location: Room D222, [The Institute of Statistical Mathematics, Tokyo](https://goo.gl/maps/58QJ35GUTkLtmDEQ9)__  
 __Registration: No registration required (except for dinner)__
 
 ### Outline
