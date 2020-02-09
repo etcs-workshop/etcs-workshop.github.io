@@ -91,10 +91,10 @@ The Institute of Statistical Mathematics (ISM) is in Tachikawa (立川), situate
 
 Tickets can be purchased at the Bus Ticket Counter in the arrival hall. On the bus, each approaching stop will be announced in English. Once you arrive at Tachikawa Station or the Palace Hotel (if you are from Narita) you may take a short taxi ride to the ISM (統計数理研究所) by showing the driver the following address:  
 
-〒190-8562
-東京都立川市緑町10-3
-統計数理研究所
-電話：050-5533-8500（代） 
+〒190-8562  
+東京都立川市緑町10-3  
+統計数理研究所  
+電話：050-5533-8500（代）
 
 ### Accommodation
 
