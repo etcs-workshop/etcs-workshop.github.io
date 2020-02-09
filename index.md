@@ -13,6 +13,7 @@ to facilitate discussions amongst researchers working on different aspects of st
 computations, and promotes new ideas in both methodological and applied directions.
 
 ### Timetable
+<a name="timetable"></a>
 
 |                     |      Day 1 (19 Feb)     |   Day 2 (20 Feb)   |
 |:-------------------:|:-----------------------:|:------------------:|
@@ -27,6 +28,7 @@ computations, and promotes new ideas in both methodological and applied directio
 | 19:00 &ndash; late  |  _Dinner & Discussion_  |                    |
 
 ### Speakers
+<a name="speakers"></a>
 
 * __Chris Oates (Newcastle University, Alan Turing Institute, UK)__  
   __Title:__ Gaussian Process Approximation of Deterministic Functions  
