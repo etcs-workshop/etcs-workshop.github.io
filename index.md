@@ -83,13 +83,14 @@ Popular lunch spots around ISM:
 TBA
 
 ### Access
+<div id="Access">
 
 The Institute of Statistical Mathematics (ISM) is in Tachikawa (立川), situated in the western portion of Tokyo Metropolis. Tokyo has two international airports: Narita (成田) and Haneda (羽田). Airport limousine bus services to Tachikawa are available at both airports:
 
 * [Narita Airport → Palace Hotel Tachikawa](https://www.limousinebus.co.jp/en/areas/bus_stop/nrt/tachikawa/dep/102/2)
 * [Haneda Airport → Tachikawa Railway Station North Exit](http://hnd-bus.com/airport/h-tachikawa)
 
-Tickets can be purchased at the Bus Ticket Counter in the arrival hall. On the bus, each approaching stop will be announced in English. Once you arrive at Tachikawa Station or the Palace Hotel (if you are from Narita) you may take a short taxi ride to the ISM (統計数理研究所) by showing the driver the following address:  
+Tickets can be purchased at the Bus Ticket Counter in the arrival hall. On the bus, each approaching stop will be announced in English. Once you arrive at the Tachikawa Station or the Palace Hotel (if you are from Narita) you may take a short taxi ride to the ISM (統計数理研究所) by showing the driver the following address:  
 
 〒190-8562  
 東京都立川市緑町10-3  
