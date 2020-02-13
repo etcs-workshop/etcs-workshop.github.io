@@ -82,7 +82,7 @@ Popular lunch spots around ISM:
 
 ### Dinner
 
-TBA
+Fully booked.
 
 ### Access
 <a name="access"></a>
