@@ -12,14 +12,18 @@ inference and a variety of computationally challenging applications, this worksh
 to facilitate discussions amongst researchers working on different aspects of statistical
 computations, and promotes new ideas in both methodological and applied directions.
 
+### Update
+
+Some of the speakers are unable to attend the workshop due to travel restrictions resulted from the coronavirus disease outbreak.
+
 ### Timetable
 <a name="timetable"></a>
 
 |                     |      Day 1 (19 Feb)     |   Day 2 (20 Feb)   |
 |:-------------------:|:-----------------------:|:------------------:|
-|  9:30 &ndash; 10:30 |       Chris Oates       |    Scott Sisson    |
+|  9:30 &ndash; 10:30 |                         |                    |
 | 10:30 &ndash; 11:00 |      _Coffee break_     |   _Coffee break_   |
-| 11:00 &ndash; 12:00 |  Francois-Xavier Briol  |   Richard Gerlach  |
+| 11:00 &ndash; 12:00 |                         |   Richard Gerlach  |
 | 12:00 &ndash; 13:30 |         _Lunch_         |       _Lunch_      |
 | 13:30 &ndash; 14:30 |    Heishiro Kanagawa    |  Pavel Shevchenko  |
 | 14:30 &ndash; 15:00 |     _Afternoon tea_     |   _Afternoon tea_  |
