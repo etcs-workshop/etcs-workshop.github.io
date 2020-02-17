@@ -22,9 +22,9 @@ Some of the speakers are unable to attend the workshop due to travel restriction
 |                     |      Day 1 (19 Feb)     |   Day 2 (20 Feb)   |
 |:-------------------:|:-----------------------:|:------------------:|
 |  9:30 &ndash; 10:30 |                         |                    |
-| 10:30 &ndash; 11:00 |      _Coffee break_     |   _Coffee break_   |
+| 10:30 &ndash; 11:00 |                         |                    |
 | 11:00 &ndash; 12:00 |                         |   Richard Gerlach  |
-| 12:00 &ndash; 13:30 |         _Lunch_         |       _Lunch_      |
+| 12:00 &ndash; 13:30 |                         |       _Lunch_      |
 | 13:30 &ndash; 14:30 |    Heishiro Kanagawa    |  Pavel Shevchenko  |
 | 14:30 &ndash; 15:00 |     _Afternoon tea_     |   _Afternoon tea_  |
 | 15:00 &ndash; 16:00 |     Shin-Itiro Goto     |   Takeru Matsuda   |
